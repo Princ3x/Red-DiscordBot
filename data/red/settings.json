@@ -1,0 +1,99 @@
+{
+    "110373943822540800" : {
+        "ADMIN_ROLE" : "!",
+        "MOD_ROLE" : "Bot Commander",
+        "PREFIXES" : [
+            "dnd"
+        ]
+    },
+    "175305986276327424" : {
+        "ADMIN_ROLE" : "Administrators",
+        "MOD_ROLE" : "Moderators",
+        "PREFIXES" : []
+    },
+    "184440273038868482" : {
+        "ADMIN_ROLE" : "!",
+        "MOD_ROLE" : "Bot Commander",
+        "PREFIXES" : []
+    },
+    "228959291061698561" : {
+        "ADMIN_ROLE" : "Abdo",
+        "MOD_ROLE" : "Admin",
+        "PREFIXES" : []
+    },
+    "260115184767598593" : {
+        "ADMIN_ROLE" : "!",
+        "MOD_ROLE" : "Bot Commander",
+        "PREFIXES" : []
+    },
+    "268143270520029187" : {
+        "ADMIN_ROLE" : "!admins",
+        "MOD_ROLE" : "!",
+        "PREFIXES" : []
+    },
+    "281471332607328256" : {
+        "ADMIN_ROLE" : "Admins",
+        "MOD_ROLE" : "Mods",
+        "PREFIXES" : []
+    },
+    "285192670098358275" : {
+        "ADMIN_ROLE" : ":",
+        "MOD_ROLE" : "Bot Commander",
+        "PREFIXES" : []
+    },
+    "288054448897392640" : {
+        "ADMIN_ROLE" : "Server Admin",
+        "MOD_ROLE" : "!",
+        "PREFIXES" : []
+    },
+    "293133756250980353" : {
+        "ADMIN_ROLE" : "!",
+        "MOD_ROLE" : "Bot Commander",
+        "PREFIXES" : []
+    },
+    "293232167725826048" : {
+        "ADMIN_ROLE" : "Bot Commander",
+        "MOD_ROLE" : "Bot Commander",
+        "PREFIXES" : []
+    },
+    "303509666602811403" : {
+        "ADMIN_ROLE" : "!",
+        "MOD_ROLE" : "!",
+        "PREFIXES" : []
+    },
+    "311549779689734145" : {
+        "ADMIN_ROLE" : "<@&320626835845021708>",
+        "MOD_ROLE" : "Bot Commander",
+        "PREFIXES" : []
+    },
+    "315829701232951297" : {
+        "ADMIN_ROLE" : "Administrator",
+        "MOD_ROLE" : "Moderator",
+        "PREFIXES" : []
+    },
+    "319984463952085004" : {
+        "ADMIN_ROLE" : "\ud80c\udd43 | Admin",
+        "MOD_ROLE" : "Bot Commander",
+        "PREFIXES" : []
+    },
+    "331865589008171008" : {
+        "ADMIN_ROLE" : "Bartenders",
+        "MOD_ROLE" : "Trainees",
+        "PREFIXES" : []
+    },
+    "EMAIL" : null,
+    "OWNER" : "153578517815230475",
+    "PASSWORD" : null,
+    "PREFIXES" : [
+        "dnd",
+        "<@236237106089951233> ",
+        ";",
+        ":"
+    ],
+    "TOKEN" : "MjM2MjM3MTA2MDg5OTUxMjMz.CuGMdg.fjgnrzoUp_NMwM7g5_QmDY7zD3o",
+    "default" : {
+        "ADMIN_ROLE" : "!",
+        "MOD_ROLE" : "Bot Commander",
+        "PREFIXES" : []
+    }
+}
